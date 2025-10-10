@@ -1,6 +1,6 @@
 # aws-ecs-fargate-grafana-deployment
 Deployed Grafana using AWS ECS with Fargate, configured networking and security groups, and verified application accessibility.
-# AWS Bootcamp Week X - [Project Title]
+# AWS Bootcamp Week X -aws-ecs-fargate-grafana-deployment
 
 ## 🎯 Objective
 Briefly describe what the project aimed to achieve.
